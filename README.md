@@ -10,6 +10,9 @@
 ##### Laur Spilca
 - I really want that Java OCP 11 - [link](https://www.youtube.com/playlist?list=PLEocw3gLFc8WMfp7fGqvWkQnBwC__Dv4K)
 - Spring Start Here - [link](https://www.youtube.com/playlist?list=PLEocw3gLFc8W25hvuYb6EERd3F0aZjUQF)
+- Spring Security Fundamentals 2022 - [link](https://www.youtube.com/playlist?list=PLEocw3gLFc8X_a8hGWGaBnSkPFJmbb8QP)
+- JPA/Hibernate Fundamentals 2023 - [link](https://www.youtube.com/playlist?list=PLEocw3gLFc8UYNv0uRG399GSggi8icTL6)
+- I know some Java but I really want to learn Spring - [link](https://www.youtube.com/playlist?list=PLEocw3gLFc8WO_HvFzTWUj2fqa7Y8-yg5)
 
 ##### DevDojo
 - Maratona Java Virado No Jiraya - [link](https://www.youtube.com/watch?v=VKjFuX91G5Q)
@@ -21,10 +24,13 @@
 - Criando um blog com Spring Boot - [link](https://www.youtube.com/playlist?list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S)
 - Spring Data JPA | Curso 2024 - [link](https://www.youtube.com/watch?v=Ca30sv9EbLo)
 
+##### Fernanda Kipper
+- CURSO DE SPRING para INICIANTES - [link](https://www.youtube.com/watch?v=YY_hf0FOIcU)
+- Autenticação e Autorização com Spring Security com JWT (Fernanda Kipper) - [link](https://www.youtube.com/watch?v=5w-YCcOjPD0)
+
 ##### Outros
 - Java para Web(Servlets e JSP) (Codando Simples) - [link](https://www.youtube.com/playlist?list=PL1lueKDtZ3DeXSaGwucTDD7iH1AcjTJAe)
 - Como criar uma REST API com Spring Boot (tutorial passo a passo) (AlgaWorks) - [link](https://www.youtube.com/watch?v=9GWK9A79tEc)
-- Autenticação e Autorização com Spring Security com JWT (Fernanda Kipper) - [link](https://www.youtube.com/watch?v=5w-YCcOjPD0)
 - Agregador de Investimentos SpringBoot (Testes unitários com Mockito - Aula 2) - [link](https://www.youtube.com/playlist?list=PLxCh3SsamNs62j6T7bv6f1_1j9H9pEzkC)
 
 ## AWS
