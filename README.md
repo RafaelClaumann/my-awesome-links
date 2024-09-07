@@ -25,6 +25,7 @@
 - Java para Web(Servlets e JSP) (Codando Simples) - [link](https://www.youtube.com/playlist?list=PL1lueKDtZ3DeXSaGwucTDD7iH1AcjTJAe)
 - Como criar uma REST API com Spring Boot (tutorial passo a passo) (AlgaWorks) - [link](https://www.youtube.com/watch?v=9GWK9A79tEc)
 - Autenticação e Autorização com Spring Security com JWT (Fernanda Kipper) - [link](https://www.youtube.com/watch?v=5w-YCcOjPD0)
+- Agregador de Investimentos SpringBoot (Testes unitários com Mockito - Aula 2) - [link](https://www.youtube.com/playlist?list=PLxCh3SsamNs62j6T7bv6f1_1j9H9pEzkC)
 
 ## AWS
 ##### LinuxTips
