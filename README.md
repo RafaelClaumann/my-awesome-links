@@ -1,6 +1,14 @@
 # my-awesome-links
 
 ## DevOps
+##### LinuxTips
+- TUTORIAL COMPLETO SOBRE KUBERNETES PARA INICIANTES! - [link](https://www.youtube.com/watch?v=zEOeukcJl6E)
+- CRIANDO UM CLUSTER K8S COM NGINX INGRESS CONTROLLER EM SUA MÁQUINA! KIND - [link](https://www.youtube.com/watch?v=1lx91nhzNe0&t=891s&ab_channel=LINUXtips)
+- O QUE É STORAGE CLASS, PV E PVC - [link](https://www.youtube.com/watch?v=_WxMQRFmXd4)
+- APRENDA A MONITORAR O SEU CLUSTER KUBERNETES EM 20 MINUTOS! - [link](https://www.youtube.com/watch?v=BXjLHhMiTmU)
+- Lucas de Souza - Terraform além do básico  - [link](https://www.youtube.com/watch?v=P3aY4_vxzWQ)
+
+##### Outros
 - Kubernetes Para Quem Não Entende Nada (Hector Vido) - [link](https://www.youtube.com/playlist?list=PLhFtIGsEfjf6hECB0pRXk3f4MkZ8QQU5L)
 - Kubernetes (Prof. Gustavo Leitão) - [link](https://www.youtube.com/playlist?list=PLyScRVRVdr6X9ulCNbVAsaggKBabNjELi)
 - Docker DCA (Caio Delgado) - [link](https://www.youtube.com/playlist?list=PL4ESbIHXST_TJ4TvoXezA0UssP1hYbP9_)
