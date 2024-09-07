@@ -40,4 +40,4 @@
 
 ##### Outros
 - Curso: AWS Cloud Practitioner (Zappts) - [link](https://www.youtube.com/watch?v=bGZXVslod5E)
-- Treinamento AWS cloud practitioner (Cristiano Pelizzari) - [link](https://www.youtube.com/playlist?list=PLMpVQWIR2lKesl8rRdVg4qbQcP64xGI2z
+- Treinamento AWS cloud practitioner (Cristiano Pelizzari) - [link](https://www.youtube.com/playlist?list=PLMpVQWIR2lKesl8rRdVg4qbQcP64xGI2z)
