@@ -11,9 +11,12 @@
 - Maratona Java Virado No Jiraya (DevDojo) -[link](https://www.youtube.com/watch?v=VKjFuX91G5Q)
 - Java para Web(Servlets e JSP) (Codando Simples) - [link](https://www.youtube.com/playlist?list=PL1lueKDtZ3DeXSaGwucTDD7iH1AcjTJAe)
 - Spring Boot Essentials (DevDojo) - [link](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H)
-- Spring Data JPA | Curso 2024 (Michelli Brito) - [link](https://www.youtube.com/watch?v=Ca30sv9EbLo)
+- Como criar uma REST API com Spring Boot (tutorial passo a passo) (AlgaWorks)- [link](https://www.youtube.com/watch?v=9GWK9A79tEc)
+- Spring Boot 3 | Curso Completo 2023 (jun. de 2023) (Michelli Brito) - [link](https://www.youtube.com/watch?v=wlYvA2b1BWI)
 - Criando um blog com Spring Boot (Michelli Brito) - [link](https://www.youtube.com/playlist?list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S)
 - Spring Boot Annotations | +30 anotações na prática (Michelli Brito) - [link](https://www.youtube.com/watch?v=Pd5tr483No0)
+- Spring Data JPA | Curso 2024 (Michelli Brito) - [link](https://www.youtube.com/watch?v=Ca30sv9EbLo)
+- Autenticação e Autorização com Spring Security com JWT (Fernanda Kipper) - [link](https://www.youtube.com/watch?v=5w-YCcOjPD0)
 
 ## AWS
 - Curso: AWS Cloud Practitioner (Zappts) - [link](https://www.youtube.com/watch?v=bGZXVslod5E)
