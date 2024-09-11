@@ -38,6 +38,10 @@
 - CURSO DE SPRING para INICIANTES - [link](https://www.youtube.com/watch?v=YY_hf0FOIcU)
 - Autenticação e Autorização com Spring Security com JWT (Fernanda Kipper) - [link](https://www.youtube.com/watch?v=5w-YCcOjPD0)
 
+##### Casa do Código
+- [Introdução à Arquitetura e Design de Software: Uma visão sobre a plataforma Java](https://www.casadocodigo.com.br/products/livro-arquitetura-java)
+- [Orientação a Objetos e SOLID para Ninjas](https://www.casadocodigo.com.br/products/livro-oo-solid)
+
 ##### Outros
 - Java para Web(Servlets e JSP) (Codando Simples) - [link](https://www.youtube.com/playlist?list=PL1lueKDtZ3DeXSaGwucTDD7iH1AcjTJAe)
 - Como criar uma REST API com Spring Boot (tutorial passo a passo) (AlgaWorks) - [link](https://www.youtube.com/watch?v=9GWK9A79tEc)
