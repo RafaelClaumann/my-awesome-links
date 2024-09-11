@@ -39,8 +39,8 @@
 - Autenticação e Autorização com Spring Security com JWT (Fernanda Kipper) - [link](https://www.youtube.com/watch?v=5w-YCcOjPD0)
 
 ##### Casa do Código
-- [Introdução à Arquitetura e Design de Software: Uma visão sobre a plataforma Java](https://www.casadocodigo.com.br/products/livro-arquitetura-java)
-- [Orientação a Objetos e SOLID para Ninjas](https://www.casadocodigo.com.br/products/livro-oo-solid)
+- Introdução à Arquitetura e Design de Software: Uma visão sobre a plataforma Java - [link](https://www.casadocodigo.com.br/products/livro-arquitetura-java)
+- Orientação a Objetos e SOLID para Ninjas - [link](https://www.casadocodigo.com.br/products/livro-oo-solid)
 
 ##### Outros
 - Java para Web(Servlets e JSP) (Codando Simples) - [link](https://www.youtube.com/playlist?list=PL1lueKDtZ3DeXSaGwucTDD7iH1AcjTJAe)
