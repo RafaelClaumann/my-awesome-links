@@ -15,6 +15,8 @@
 - Kubernetes (Prof. Gustavo Leitão) - [link](https://www.youtube.com/playlist?list=PLyScRVRVdr6X9ulCNbVAsaggKBabNjELi)
 - Docker DCA (Caio Delgado) - [link](https://www.youtube.com/playlist?list=PL4ESbIHXST_TJ4TvoXezA0UssP1hYbP9_)
 - Lives do Marcelo_DevSREs - [link](https://www.twitch.tv/marcelo_devsres)
+- Kubernetes in Action - [link](https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725)
+- Certified Kubernetes Application Developer (CKAD) Study Guide - [link](https://www.amazon.com/Certified-Kubernetes-Application-Developer-Depth/dp/1492083739)
 
 ## Java
 ##### Laur Spilca
