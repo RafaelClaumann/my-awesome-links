@@ -26,6 +26,12 @@
 - 📹 JPA/Hibernate Fundamentals 2023 - [link](https://www.youtube.com/playlist?list=PLEocw3gLFc8UYNv0uRG399GSggi8icTL6)
 - 📹 I know some Java but I really want to learn Spring - [link](https://www.youtube.com/playlist?list=PLEocw3gLFc8WO_HvFzTWUj2fqa7Y8-yg5)
 
+##### RinaldoDev
+- 📹 Curso Panorama Java 8 - [link](https://www.youtube.com/playlist?list=PLuYctAHjg89ZzHzFjBA-EpAWm7JudxwNn)
+- 📹 Curso Panorama Java 9 à 11 - [link](https://www.youtube.com/playlist?list=PLuYctAHjg89Y4RZ3UIgAOWow4yc_rgpKy)
+- 📹 Curso Lambda, Streams e Optional do Java 8 - [link](https://www.youtube.com/playlist?list=PLuYctAHjg89ZkhgOQo0zcTtmHY5nuRYud)
+- 📹 Curso Multithread, Paralelismo e Concorrência com Java - [link](https://www.youtube.com/playlist?list=PLuYctAHjg89YNXAXhgUt6ogMyPphlTVQG)
+
 ##### DevDojo
 - 📹 Maratona Java Virado No Jiraya - [link](https://www.youtube.com/watch?v=VKjFuX91G5Q)
 - 📹 Spring Boot Essentials - [link](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H)
