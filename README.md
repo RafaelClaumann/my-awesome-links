@@ -10,6 +10,11 @@
 - 📹 #2 SEMANA DEVOPS - O Jenkins e o CI - Integração Continua - [link](https://www.youtube.com/watch?v=W8EByXEJfBk)
 - 📹 Descomplicando o Docker (LinuxTips) - [link](https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR)
 
+Sid Palas
+- 📹 Complete Kubernetes Course - From BEGINNER to PRO - [link](https://www.youtube.com/watch?v=2T86xAtR6Fo)
+- 📹 Complete Docker Course - From BEGINNER to PRO - [link](https://www.youtube.com/watch?v=RqTEHSBrYFw)
+- 📹 Complete Terraform Course - From BEGINNER to PRO - [link](https://www.youtube.com/watch?v=7xngnjfIlK4)
+
 ##### Outros
 - 📹 Kubernetes Para Quem Não Entende Nada (Hector Vido) - [link](https://www.youtube.com/playlist?list=PLhFtIGsEfjf6hECB0pRXk3f4MkZ8QQU5L)
 - 📹 Kubernetes (Prof. Gustavo Leitão) - [link](https://www.youtube.com/playlist?list=PLyScRVRVdr6X9ulCNbVAsaggKBabNjELi)
