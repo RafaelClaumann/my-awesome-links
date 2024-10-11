@@ -37,7 +37,7 @@
 - 📹 Curso Lambda, Streams e Optional do Java 8 - [link](https://www.youtube.com/playlist?list=PLuYctAHjg89ZkhgOQo0zcTtmHY5nuRYud)
 - 📹 Curso Multithread, Paralelismo e Concorrência com Java - [link](https://www.youtube.com/playlist?list=PLuYctAHjg89YNXAXhgUt6ogMyPphlTVQG)
 
-##### DevDojo
+##### DevDojoLuiz Curado
 - 📹 Maratona Java Virado No Jiraya - [link](https://www.youtube.com/watch?v=VKjFuX91G5Q)
 - 📹 Spring Boot Essentials - [link](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H)
 
@@ -53,7 +53,7 @@
 - 📹 Autenticação e Autorização com Spring Security com JWT - [link](https://www.youtube.com/watch?v=5w-YCcOjPD0)
 
 ##### Casa do Código
-- 📖 Introdução à Arquitetura e https://www.youtube.com/playlist?list=PLh2kxHKNCh6N4TWyzj2VraSwdUVyslCDVDesign de Software: Uma visão sobre a plataforma Java - [link](https://www.casadocodigo.com.br/products/livro-arquitetura-java)
+- 📖 Introdução à Arquitetura e Design de Software: Uma visão sobre a plataforma Java - [link](https://www.casadocodigo.com.br/products/livro-arquitetura-java)
 - 📖 Orientação a Objetos e SOLID para Ninjas - [link](https://www.casadocodigo.com.br/products/livro-oo-solid)
 
 ##### Outros
