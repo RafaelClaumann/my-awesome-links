@@ -53,11 +53,12 @@
 - 📹 Autenticação e Autorização com Spring Security com JWT - [link](https://www.youtube.com/watch?v=5w-YCcOjPD0)
 
 ##### Casa do Código
-- 📖 Introdução à Arquitetura e Design de Software: Uma visão sobre a plataforma Java - [link](https://www.casadocodigo.com.br/products/livro-arquitetura-java)
+- 📖 Introdução à Arquitetura e https://www.youtube.com/playlist?list=PLh2kxHKNCh6N4TWyzj2VraSwdUVyslCDVDesign de Software: Uma visão sobre a plataforma Java - [link](https://www.casadocodigo.com.br/products/livro-arquitetura-java)
 - 📖 Orientação a Objetos e SOLID para Ninjas - [link](https://www.casadocodigo.com.br/products/livro-oo-solid)
 
 ##### Outros
 - 📹 Java para Web(Servlets e JSP) (Codando Simples) - [link](https://www.youtube.com/playlist?list=PL1lueKDtZ3DeXSaGwucTDD7iH1AcjTJAe)
+- 📹 Curso Programação Web com Java (Luiz Curado) - [link](https://www.youtube.com/playlist?list=PLh2kxHKNCh6N4TWyzj2VraSwdUVyslCDV)
 - 📹 Como criar uma REST API com Spring Boot (tutorial passo a passo) (AlgaWorks) - [link](https://www.youtube.com/watch?v=9GWK9A79tEc)
 - 📹 Agregador de Investimentos SpringBoot (Testes unitários com Mockito - Aula 2) - [link](https://www.youtube.com/playlist?list=PLxCh3SsamNs62j6T7bv6f1_1j9H9pEzkC)
 - 📖 Microservices Spring Boot: A Practical Approach to RESTful Services using RabbitMQ - [link](https://www.amazon.com.br/Learn-Microservices-Spring-Boot-Practical-ebook/dp/B0782L1GDR)
