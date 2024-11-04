@@ -37,7 +37,7 @@
 - 📹 Curso Lambda, Streams e Optional do Java 8 - [link](https://www.youtube.com/playlist?list=PLuYctAHjg89ZkhgOQo0zcTtmHY5nuRYud)
 - 📹 Curso Multithread, Paralelismo e Concorrência com Java - [link](https://www.youtube.com/playlist?list=PLuYctAHjg89YNXAXhgUt6ogMyPphlTVQG)
 
-##### DevDojoLuiz Curado
+##### DevDojo
 - 📹 Maratona Java Virado No Jiraya - [link](https://www.youtube.com/watch?v=VKjFuX91G5Q)
 - 📹 Spring Boot Essentials - [link](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H)
 
