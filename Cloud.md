@@ -1,4 +1,7 @@
 ## AWS
+
+🔙 [backlink to main](https://github.com/RafaelClaumann/my-awesome-links/blob/main/README.md)
+
 ##### LinuxTips
 - 📹 BondeDaAWS - Treinamento preparatório para AWS Cloud Practitioner (mai. de 2022) - [link](https://www.youtube.com/watch?v=VrQVDbgwFDs)
 - 📹 BondeDaAWS 2.0 - Treinamento preparatório para AWS Solutions Architect (ago. de 2022) - [link](https://www.youtube.com/watch?v=lMnv7fZ_vAM)
