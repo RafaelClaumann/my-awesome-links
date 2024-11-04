@@ -62,6 +62,7 @@
 - 📹 Como criar uma REST API com Spring Boot (tutorial passo a passo) (AlgaWorks) - [link](https://www.youtube.com/watch?v=9GWK9A79tEc)
 - 📹 Agregador de Investimentos SpringBoot (Testes unitários com Mockito - Aula 2) - [link](https://www.youtube.com/playlist?list=PLxCh3SsamNs62j6T7bv6f1_1j9H9pEzkC)
 - 📖 Microservices Spring Boot: A Practical Approach to RESTful Services using RabbitMQ - [link](https://www.amazon.com.br/Learn-Microservices-Spring-Boot-Practical-ebook/dp/B0782L1GDR)
+- 📹 Treinamento Arquitetura Hexagonal (DevEduardoAlbuquerque) - [link](https://www.youtube.com/playlist?list=PLRHt7FXZbVCQmSscfVQVKT_gegPHurnHs)
 
 ## AWS
 ##### LinuxTips
